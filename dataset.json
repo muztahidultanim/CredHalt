@@ -15281,8 +15281,8 @@
     },
     {
         "vendor": "telnet (telnet)",
-        "username": "mother",
-        "password": "fucker"
+        "username": "admin",
+        "password": "password"
     },
     {
         "vendor": "telnet (telnet)",
